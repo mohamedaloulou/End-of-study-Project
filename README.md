@@ -22,10 +22,10 @@ The codebase is updated from both the [Satmae_pp](https://github.com/techmn/satm
 ## Citation
 
 @inproceedings{HowEffective2024,
-      title={How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?}, 
-      author={Sosa Jose  Aloulou Mohamed Rukhovich Danila Sleimi Rim Changaival Boonyarit  Kacem Anis & Aouada Djamila.},
-      year={2024},
-      booktitle={BMVC}
+    title={How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?},
+    author={Sosa, Jose and Aloulou, Mohamed and Rukhovich, Danila and Sleimi, Rim and Changaival, Boonyarit and Kacem, Anis and Aouada, Djamila},
+    year={2024},
+    booktitle={BMVC}
 }
 
 
