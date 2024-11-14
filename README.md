@@ -11,4 +11,4 @@ based downstream tasks, and for SatMAE we assess its performance on a classifica
 ## Proposed Study
 We analyze two settings: Setting 1 initializes the encoder E with pre-trained weights from a self-supervised pre-training stage, then fine-tunes it with a task-specific model Mi using supervised learning, while Setting 2 omits the pre-training stage and trains E plus Mi from scratch, comparing the task-specific metrics for both settings.
 
-<img width="1096" alt="image" src="images/overall_architecture.png">
+<img width="1096" alt="image" src="image/proposed study.png">
