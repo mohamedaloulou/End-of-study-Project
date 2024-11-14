@@ -1,7 +1,7 @@
 # How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks? (BMVC workshop 2024)
 
 ## Updates
-- **September 27, 2024:** the paper is released [[arXiv]]([https://arxiv.org/abs/2403.05419](https://arxiv.org/abs/2409.18536))  [[PDF]]([https://arxiv.org/pdf/2403.05419.pdf](https://arxiv.org/pdf/2409.18536))
+- **September 27, 2024:** The paper is released [arXiv](https://arxiv.org/abs/2403.05419) [PDF](https://arxiv.org/pdf/2403.05419.pdf)
 - **Nov 14, 2024:** Codebase is released.
 
 ## Overview
