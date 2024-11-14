@@ -12,3 +12,20 @@ based downstream tasks, and for SatMAE we assess its performance on a classifica
 We analyze two settings: Setting 1 initializes the encoder E with pre-trained weights from a self-supervised pre-training stage, then fine-tunes it with a task-specific model Mi using supervised learning, while Setting 2 omits the pre-training stage and trains E plus Mi from scratch, comparing the task-specific metrics for both settings.
 
 <img width="1096" alt="image" src="image/proposed study.png">
+
+## More informations about the experiments
+you will find it on README.md file on Prithvi folder for the experiments related to Prithvi which incorporates segmentation and cloud imputation task, while README.md file on satmae_pp folder that related to classification task. 
+
+## Acknowledgements
+The codebase is updated from both the [Satmae_pp](https://github.com/techmn/satmae_pp) repository and the [HLS Foundation OS](https://github.com/NASA-IMPACT/hls-foundation-os). We thank them for releasing their valuable codebase.
+
+## Citation
+
+@inproceedings{HowEffective2024,
+      title={How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?}, 
+      author={Sosa Jose  Aloulou Mohamed Rukhovich Danila Sleimi Rim Changaival Boonyarit  Kacem Anis & Aouada Djamila.},
+      year={2024},
+      booktitle={BMVC}
+}
+
+
